@@ -1,6 +1,6 @@
-# 🚀 Jobify - AI Powered Job Portal
+#  Jobify - AI Powered Job Portal
 
-## 📌 Overview
+##  Overview
 
 Jobify is a full-stack AI-powered job portal built using the MERN stack. It connects job seekers and recruiters through a modern recruitment platform with AI-driven ATS resume analysis, mock interviews, real-time chat, and secure authentication.
 
@@ -8,9 +8,9 @@ The platform helps candidates improve their employability while enabling recruit
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👨‍💼 Job Seeker
+###  Job Seeker
 
 * User Registration & Login
 * Search Jobs by Keywords and Location
@@ -21,7 +21,7 @@ The platform helps candidates improve their employability while enabling recruit
 * Real-Time Chat with Recruiters
 * Profile Management
 
-### 🏢 Recruiter
+###  Recruiter
 
 * Recruiter Dashboard
 * Create & Manage Job Posts
@@ -29,14 +29,14 @@ The platform helps candidates improve their employability while enabling recruit
 * Manage Candidate Applications
 * Real-Time Communication with Candidates
 
-### 🤖 AI Features
+###  AI Features
 
 * ATS Resume Scoring using Google Gemini AI
 * Resume Feedback & Suggestions
 * AI Mock Interview Questions
 * Detailed Interview Feedback
 
-### 🔒 Security
+###  Security
 
 * JWT Authentication
 * Password Hashing with bcrypt
@@ -45,7 +45,7 @@ The platform helps candidates improve their employability while enabling recruit
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -81,7 +81,7 @@ The platform helps candidates improve their employability while enabling recruit
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 Frontend (React.js)
 ↓
@@ -99,7 +99,7 @@ Additional Services:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Jobify/
@@ -121,12 +121,12 @@ Jobify/
 └── package.json
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/jobify.git
+git clone https://github.com/saurabh113v/jobify.git
 ```
 
 ### Install Dependencies
@@ -144,13 +144,13 @@ npm install
 Create a `.env` file inside the server folder:
 
 ```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-GEMINI_API_KEY=your_gemini_api_key
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
+MONGO_URI = mongodb+srv://saurabhjaiswar076_db_user:ysD3Z9vQG7Z2h0BW@cluster0.6s9ccrt.mongodb.net/?appName=Cluster0
+PORT=4000
+SECRET_KEY = "your_secret_key_here";
+CLOUD_NAME="dhag0bxaa"
+API_KEY="621475891969631"
+API_SECRET="oIa0Pu5yvhp-TpSdU7bYJOefxts"
+GEMINI_API_KEY=AIzaSyCBomyHPh-4QlXSnAB5p7g-XJ5Bp-19OB4
 ```
 
 ### Run Application
@@ -165,20 +165,30 @@ npm start
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Add screenshots of:
 
 * Home Page
+  <img width="1912" height="860" alt="image" src="https://github.com/user-attachments/assets/3e21ff9f-ae22-4408-ae6e-35d06c3e84e4" />
+
 * Job Search Page
-* Recruiter Dashboard
+  <img width="1912" height="866" alt="image" src="https://github.com/user-attachments/assets/5e2bd7cd-28b5-45eb-b714-e4221f24591b" />
+
 * AI ATS Evaluation
+  <img width="1911" height="862" alt="image" src="https://github.com/user-attachments/assets/192a6801-bcac-4c10-aabd-45deac86bb7e" />
+  
+  <img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/8ce85e60-86d0-4a90-b01e-7340397b601a" />
+
 * Mock Interview Module
+  <img width="1917" height="863" alt="image" src="https://github.com/user-attachments/assets/f42bab99-30f4-4794-ae53-6cfefb4bfacb" />
+
 * Real-Time Chat
+<img width="1915" height="856" alt="image" src="https://github.com/user-attachments/assets/daaf649c-365c-41c3-9245-062453b51cbe" />
 
 ---
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 * Video Interview Integration
 * Job Recommendation Engine
@@ -188,18 +198,20 @@ Add screenshots of:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Saurabh Jaiswar**
+**Saurabh Kumar**
 
 B.Tech CSE, NIAMT Ranchi
 
 GitHub: https://github.com/saurabh113v
 
-LinkedIn: Add Your LinkedIn Profile
+LinkedIn: www.linkedin.com/in/saurabh-kumar-52202223a
+
+E-mail id : saurabhjaiswar174@gmail.com
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, please consider giving it a star ⭐ on GitHub.
